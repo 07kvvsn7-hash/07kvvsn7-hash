@@ -7,5 +7,5 @@
 
 ---
   🛠️ Tech Stack & Tools
-- **Programming:** Python, C#
+- **Programming:** Python, C# , Java
 - **Tools:** Git, VS Code, Blender, Unity
